@@ -1,0 +1,411 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect narrative of the battell of Knocknones, within the county of Cork and province of Munster, on Saturday, the thirteenth of November, betwixt the Parliaments forces under the command of the Lord Inchiquin, Lord President of Munster; and the forces of the Irish rebells under the Lord Taaff, / set downe by an officer of the Parliaments army, present and acting at the fight. Directed to an honorable Member of the House of Commons.</title>
+            <author>Officer of the Parliaments army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90475</idno>
+            <idno type="STC">Wing P1501</idno>
+            <idno type="STC">Thomason E418_10</idno>
+            <idno type="STC">ESTC R7371</idno>
+            <idno type="EEBO-CITATION">99873121</idno>
+            <idno type="PROQUEST">99873121</idno>
+            <idno type="VID">161335</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161335)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E418[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect narrative of the battell of Knocknones, within the county of Cork and province of Munster, on Saturday, the thirteenth of November, betwixt the Parliaments forces under the command of the Lord Inchiquin, Lord President of Munster; and the forces of the Irish rebells under the Lord Taaff, / set downe by an officer of the Parliaments army, present and acting at the fight. Directed to an honorable Member of the House of Commons.</title>
+                  <author>Officer of the Parliaments army.</author>
+               </titleStmt>
+               <extent>8, 7-13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock, in Pauls Church-yeard, at the signe of the Kings Head,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: significant bleed-through.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 1st"; 'Nouemb:' crossed out and replaced by "Decemb:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Carlingford, Theobald Taafe, --  Earl of, d. 1677 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term>Munster (Ireland) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Ireland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161335:1" rendition="simple:additions"/>
+            <p>A Perfect NARRATIVE OF THE BATTELL OF Knocknones, <hi>WITHIN THE CO<g ref="char:V">Ʋ</g>NTY</hi> Of <hi>Cork</hi> and Province of <hi>Munſter,</hi> on <hi>Saturday,</hi> the Thirteenth of <hi>November,</hi> betwixt the Parliaments Forces under the Command of the Lord INCHIQUIN, Lord Preſident of <hi>Munſter;</hi> AND The forces of the <hi>Iriſh Rebells</hi> under the Lord <hi>Taaff,</hi> ſet downe by an Officer of the <hi>Parliaments</hi> Army, preſent and acting at the Fight.</p>
+            <p>
+               <hi>Directed to an Honorable Member of the Houſe of COMMONS.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Boſtock,</hi> in <hi>Pauls</hi> Church-yeard, at the ſigne of the <hi>Kings Head.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161335:2"/>
+            <pb n="3" facs="tcp:161335:2"/>
+            <head>A Narrative of the Battell of <hi>KNOCKNONES.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T was now a ſeaſon as unapt for Action to the naked <hi>Engliſh,</hi> as opportune for the <hi>Jriſh</hi> better inured and accommodated to the hardſhips of that Country, when the Lord <hi>Taff,</hi> Generall for the <hi>Iriſh,</hi> advanced towards the Engliſh Quarters, with a Deſigne to block up, or di<g ref="char:EOLhyphen"/>ſtreſs them in their Garriſons, wherein it being diſcern<g ref="char:EOLhyphen"/>ed, that hee might prevalently proceed to their deſtru<g ref="char:EOLhyphen"/>ction, if a ſeaſonable oppoſition were not given; It was at a Counſell of Warre ſummoned by the Preſedent, long debated whether to iſſue forth of our Garriſons to encounter this approaching Torrent or not, and at length after an earneſt endeavour of divers to the con<g ref="char:EOLhyphen"/>trary, reſolved to be more conſiſtent with our ſafeties to make head againſt the Rebells in the field, then to ſuf<g ref="char:EOLhyphen"/>fer them to come within our Quarters, and ſo diſable us either to joyne together in an offencive, or ſubſiſt toge<g ref="char:EOLhyphen"/>ther in a defenſive poſture, In purſuance of which reſo<g ref="char:EOLhyphen"/>lution, The Army (being by the generall vote, and the Preſidents Orders drawne together at <hi>Moyallo</hi>) march<g ref="char:EOLhyphen"/>ched on the Twelfth of this Inſtant (after a due diſ<g ref="char:EOLhyphen"/>charge
+<pb n="4" facs="tcp:161335:3"/>of thoſe pious invocations and exerciſes of ad<g ref="char:EOLhyphen"/>dreſſes to the Divine Providence which the Preſident had injoyned) to a place called <hi>Gariduff</hi> (in Engliſh <hi>Blask-gardens</hi>) the Rebells encamping at <hi>Knocknones</hi> within two miles of us; but the day ſo far ſpent, as that it was not held fit to make any attempt then upon them; About the evening came a Trumpet from the Lord <hi>Taff</hi> with a Letter to the Preſident, in theſe words,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>THe delay of my not ſending to you a returne of your laſt Letter by your Trumpet, was occaſioned by my ſtay for my Artillery, which being come, I tell your Lordſhip, That Captaine <hi>Courtepp</hi> very much magnifying the Excellency of your Foot, I offered (more for recreation then with a ſuſpition that it might breake your Army) That a Thouſand or two of mine ſhould (when ever you made an indifferent appoint<g ref="char:EOLhyphen"/>ment,) ſight with a like number of yours; which I am now ready to performe in this place; And if you pleaſe to draw the Remaine of your Army hither, I will look upon you, and certainly neither of our Parties will want the gallantry of ſeconding their ingaged friends. Our quartell is to preſerve the Kings Intereſts, which all of us with the hazard of our lives will maintaine againſt my oppoſition; And when I conſider, that by the de<g ref="char:EOLhyphen"/>ſtruction of your party, I may be in the more unmoleſt<g ref="char:EOLunhyphen"/>ed Condition to ſerve him, be certaine your invitation to battell is neceptably received by me. I know that in your Lordſhips Army there are a great many Gentle<g ref="char:EOLhyphen"/>men which have been very faithfull to their King, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> is your Lordſhips, practiſe to abuſe them by <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them in a ſervice to deſtructive to His Maje<g ref="char:EOLhyphen"/>ſties
+<pb n="5" facs="tcp:161335:3"/>Rights. And pray, my Lord, doe not delude them by detracting this Army, who are unalterably, and without any hope of perticular benefit, determined to looſe themſelves, or reſtore (as much as in them lies) the King to His former greatneſſe; This is truth, and it proceeds cordially from</p>
+                  <closer>
+                     <dateline>
+                        <hi>Knocknones</hi>
+                        <date>12. Novem. 27.</date>
+                     </dateline>
+                     <signed>Your Lordſhips Servant, TAFF.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To which the Lord Preſident returned.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>MY LORD,</hi> I have received your Letter, by your Trumpeter, and your Lordſhip might before this have perceived that I was not ignorant where your Army lay, had not the approach of night ſcanted me of time to march up unto you; And being you have performed as much as I deſire in bringing your Army hither, I ſhall not deſire you to looſe any advantage you have in numbers of men, being your offer was onely made for Recreation: You are pleaſed to ſay your quar<g ref="char:EOLhyphen"/>rell is chiefly to preſerve the <hi>Kings Intereſt,</hi> and becauſe I beleeve it will little avail me to offer Reaſons to con<g ref="char:EOLhyphen"/>vince you of the contray, I ſhall deferre the diſpute un<g ref="char:EOLhyphen"/>till wee meet in the morning, when I beleeve theſe Gentlemen whom yee ſuppoſe to bee deluded by me, will by Gods help uſe Rhetorick that will better con<g ref="char:EOLhyphen"/>duce to that end, to which I ſhall refer your Lordſhip for ſatisfaction, being reſolved to contribute there in to the endeavours of</p>
+                  <closer>
+                     <signed>Your Servant, <hi>
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This night wee lodged in a wood which equally af<g ref="char:EOLhyphen"/>foarded both ſecurity and convenience unto the ſoul<g ref="char:EOLhyphen"/>diers. The word was to the Foot <hi>(Pray)</hi> to the Houſe <hi>(Prevaile;)</hi> and this night ſome <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was obſerved in the nature of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> early in the morn<g ref="char:EOLhyphen"/>ning
+<pb n="6" facs="tcp:161335:4"/>we began to prepare (the light giving us now a clear manifeſtation of what was to be done) the ene<g ref="char:EOLhyphen"/>my was drawn up upon a hil about two Myles of called <hi>Knoknones,</hi> which being of great advantage to them. The Lord Preſident (if poſſible) to withdraw them from it ſent this Letter to the Rebels Gene all.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>My Lord,</salute>
+                  </opener>
+                  <p>
+                     <hi>Here is a very faire piece of ground betwixt your Lord<g ref="char:EOLhyphen"/>ſhips Army and ours, one this ſide the brooke; whether if you pleaſe to advance, we will do the like; we do not ſo much doubt the gallantry of your reſolution, as to thinke you will not come, but give you this notice, to the end you may ſee wee do stand upon no advantage of ground, and are willing to diſpute our Qaurrel upon indifferent tearms; being con<g ref="char:EOLhyphen"/>ſident that the juſtneſſe of our Cauſe wilbe this day made ma<g ref="char:EOLhyphen"/>nifeſt by the Lord, and that your Lordſhips judgment will be rectified concerning</hi>
+                  </p>
+                  <closer>
+                     <date>
+                        <hi>Novem.</hi> 13. 1647.</date>
+                     <signed>Your ſervant <hi>Inchiquin.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>To which the Lord <hi>Taaff</hi> returned verball anſwer, that hee was not ſo little a ſouldier, as not to improve any advantage he had, of ground or otherwiſe, which he doubted not the Preſident would doe in like eaſe.</p>
+            <p>The reaſon as we learned afterwards by ſome of their men taken priſoners, (beſides the advantage of ground being a ſteep hill) why the Lord <hi>Taaff</hi> ſo per<g ref="char:EOLhyphen"/>tinaciouſly ſtuck to that place was this.</p>
+            <p>There was a certaine old blind Propheſie run<g ref="char:EOLhyphen"/>ning amongſt the Iriſh, which converted into Eng<g ref="char:EOLhyphen"/>liſh rymes like their old bard ſpeakes thus.</p>
+            <q>
+               <l>
+                  <hi>Mac Donogh</hi> (future age ſhall ſee</l>
+               <l>A man of thy poſterity,</l>
+               <l>
+                  <pb n="7" facs="tcp:161335:4"/>
+By whom the Engliſh Lord ſhall fall</l>
+               <l>Bloud ſhall aſcend to the legges ſmall</l>
+               <l>The place wee Knoknones doe call.</l>
+            </q>
+            <p>Which was by the Lord <hi>Taaff</hi> applyed to himſelf, for that the hill whereon he ſtood was called <hi>Knockno<g ref="char:EOLhyphen"/>nes,</hi> and his Anceſtors had the lands of <hi>Mack. Donagh</hi> given by the Kings of Enland in reward of their ſervice performed againſt he Rebells here, their Leuiftenant Generall Sr. <hi>Alexander Mac Donnell</hi> known vulgarly by the name of <hi>Colkitta,</hi> was unwilling to have the fight performed on that day (upon a ſuperſtious ob<g ref="char:EOLhyphen"/>ſervation,; for that he was exceedingly afraid of <hi>Sa<g ref="char:EOLhyphen"/>turns</hi> malevolent influence, that day being to him criti<g ref="char:EOLhyphen"/>call) the former name of this place was antiquated al<g ref="char:EOLhyphen"/>moſt this laſt age, the name of it now being Engliſh<g ref="char:EOLhyphen"/>mans hill, as it proved upon this happy and ſucceſſefull day.</p>
+            <p>The Lord <hi>Taaff</hi> therefore reſolving obſtinately to adhere to his choſen ground, the Lord Preſident calling a Counſell of War to adviſe whether it were expedient to aſſault them on ſuch a diſadvantageous place (the wind freinding them likewiſe, and their numbers almoſt doubling ours) but the ſence of our preſent condition quickly reſolved this ſcruple, it being to no purpoſe to have advanced hitherto, if wee ſhould proceed no fur<g ref="char:EOLhyphen"/>ther, and for the ſucceſs to put our ſelves upon the mer<g ref="char:EOLhyphen"/>cy of God. It is not to be forgotten here that before the Counſell, the Lord Preſident commanded that God ſhould be ſought by prayer, for our direction in this needful time of trouble. The word given on our ſide was Victory, the mark a branch of new broome in our hats, wherewith our Quarters then abounded. The
+<pb n="8" facs="tcp:161335:5"/>enemies mark was a ſtrawen rope about their hats; their Word was God and St. <hi>Paterick,</hi> they having forgotten how lately their contry St. had failed them; (for that was the word when we put them to the ſword at <hi>Caſhel</hi>) their numbers conſiſted as themſelves gave out 9000. Foote. and a 1000. Horſe, but by liſt found afterwardes in the Leiuftenant Generals pocket, they were muſtred in the field 7464 foot, and 1076, horſe. beſides Officers: our Army was neere 4000 Foote, and 1200 horſe, the e<g ref="char:EOLhyphen"/>nimie ranging their battell in a plain front, all along the hill, that ſo they might ingage all their force together, their foot were drawn into nine diviſions, of which the greater part by much was Pike, wing'd with three bodies of Horſe on each ſide, beſide reſerves; our foot whoſe number was by half the leſſe, were marſhald in<g ref="char:EOLhyphen"/>to three deviſions, whereof two parts of three were Muskets, the right and left Wing of <hi>Horſe</hi> were made of 13 bodies of <hi>Horſe,</hi> 7 on the right wing, and 6 on the left (with their <hi>Reſerves;</hi>) Both <hi>Armies</hi> thus drawn up,</p>
+            <p>The Rebels held firmly (their firſt reſolution) not to parte with their ſtation, but that we ſhould either not fight at all, or do it upon theſe unequall tearms, the wind was for the Rebells, the Lord Preſident (whoſe Rivall no man can be in this piece of glory, it being indeed in all mens judgements, under God, the gaining of the day on our ſide) throughly weighing their numbred ground and Comodity of the place, above us, all which he con<g ref="char:EOLhyphen"/>ſidered of too much moment they might be to turn the Seale in the Ballance of War, thought of a way of forcing them to that which they would not willingly be drawn to, to leave the ground, and diſcompoſe their preſent forme, that ſo (we might have the advantage in that diſorder) to aſſault them; and this he effected thus;</p>
+            <p>
+               <pb n="7" facs="tcp:161335:5"/>
+He drew the left wing of his battle from the ground, where<g ref="char:EOLhyphen"/>in he at firſt placed them, making them move into a place of fallow ground more leftward, as if he would get upon the ene<g ref="char:EOLhyphen"/>mies backs on that ſide, and Commanded his right wing to wave a little that way too, as if he went with all his Force to aſſail them in that one place. The Rebels carefull enough to ſupport their own deſigne, had a watchfull eye upon all our motions; and by this laſt, imagining they might be charged in the Rear, or ſurcharged with the multitudes of our men at one place, the train of the Lord Preſidents Plot immediately took; for they breaking their firſt form, parted with their ſtands: Likewiſe drawing moſt of their Forces to ſuccour their right wing, by varying the ſcene of their ground, we got theſe ad<g ref="char:EOLhyphen"/>vantages. The wind was made an indifferent arbiter, the aſcent of the hill not ſo ſteep, and onely the Sunne was now a neuter to ripen the Fruit of this Deſign quite, which was now more then green. The Lord Preſident commanded two pieces of Artillery to be drawn to play on their right wing, and if any diſorder thereby hapned, our Horſe and Foot were in that nick to fall on: our right wing having obſerved the left of theirs, made thin with ſome confuſion likewiſe in ſending re<g ref="char:EOLhyphen"/>lief to their friends, had command to reſume their firſt ſtations, and to incline further to the right hand (as our left wing had done before to the left) as if they likewiſe intended to ſurpriſe the Rebels on the back; to prevent which, the Rebels reſolved immediatdly to fall on: to this end they advanced with their Horſe before their Foot, to charge; but that errour being ſoon eſpied by ours, our ſhot were commanded preſently to advance under the ſhelter of a Ditch that parted them and us, who pou<g ref="char:EOLhyphen"/>red ſuch ſhowers of hail upon them (that it proving a funerall peall to many) the reſt retired foul, and routed their own Foot. This their neighbours eſpying, followed their example, and ſo their main body of Foot, and left wing of Horſe ran clean
+<pb n="8" facs="tcp:161335:6"/>way, and our Horſe followed after them in the chaſe: But God willing to mingle a little gall with the ſweet cup he had before given us (that ſo we might be contented to receive every thing at his hand) was pleaſed, that part of ground which was aſſigned for our left wing, was not ſo convenient for horſe, yet to be accepted (where there was no choice of better) but very defenceable by Foote, by reaſon of ſome incloſures and ditches, and a lane near adjacent; there the Lord Preſident made the bounds of his Foot, but they by their vallour (if not raſhneſſe rather) fancying to themſelves ſome imaginary advantage, preſt further, and ſo clouded us a little with the ſmoake of their ſhot, that the right wing of the <hi>Rebels</hi> Army which was led by Sir <hi>Alexander Mack-Donnel,</hi> alias <hi>Colkitto.</hi> the <hi>Rebels</hi> Lieutenant generall, on whom our guns playing fi<g ref="char:EOLhyphen"/>ercely (to prevent that danger and performe ſome notable ſer<g ref="char:EOLhyphen"/>vice, as he had promiſed with his Red-ſhankes) came thundring downe without the leaſt ſence of danger, even the <hi>Rebels</hi> horſe on their right winge advancing with thoſe foot, were charged by their oppoſite horſe on our left wing, and routed; who fol<g ref="char:EOLhyphen"/>lowing hard upon them, the <hi>Rebels</hi> foot ſlipt in undecerned of them upon our foot, whoſe forwardneſſe, ſeeing the enemies horſe routed had left their defenſive ſtage which they might with eaſe and ſafely have maintained; and rouling downe like a Torrent impetuouſly on our foot, routed our forlorne hope, by which meanes our foot being our numbred the Enemy began to have the execution of them; poſſeſt two of our guns, and one of them being loaded, diſcharged it againſt us, and ſo tearing down all before them got to our waggons and there fel a plundering had it not bin for this diſaſter, without doubt, we had bought a moſt perfect &amp; glorious victory at the eaſieſt rate that might be without the loſſe as is imagined of ten men, but this coſt ſome fifty of our common men their lives, and divers of out galanteſt Commanders not being able to ſtay their men
+<pb n="9" facs="tcp:161335:6"/>nor willing to run along with them, there gloriouſly ſacrificed their lives, rather chuſing to die, though almoſt deſerted of all, then to give the leaſt ground back to ſo barbarous and cruell Rebels. The Lord Preſident was but newly parted from the left wing being on the right, where he ioyfully ſaw a Victory on the nick of gaining, by the totall diſcomfiture of that part of the Enemy: but looking towards our left wing, there his eyes were preſented with the rufull ſpectacle of his mens ſlaughters and the Rebels overturning all before them even to our wa<g ref="char:EOLhyphen"/>gons, he immediately poſted down ſom Regiments of Foot, and a troop or two of Horſe, which had been there for Reſerves, and not come upon the charge: Theſe coming down fell upon the Rebels in their return from our Baggage, where they made there lives, pay the price of their inſolent attempt by putting the greateſt part of them to the, ſword, amongſt whom fell Sir <hi>Alexander Mack Donnell</hi> and his Lievtenant Colonel. And thus by Gods help and the wiſdome and vallour of our Gene<g ref="char:EOLhyphen"/>rall, Commanders and Souldiers, a glorious victory was gain<g ref="char:EOLhyphen"/>ed over the Rebels, the chaſe was followed every way by our Foot and Horſe, but Horſe eſpecially, for they were too light for our footmen, all over the Countrey, till night hindred the further proſecution when a retreat being ſounded for that time the Lord Preſident and his Officers in the field with their Soul<g ref="char:EOLhyphen"/>diers, gave thanks to God for his extraordinary great mercy, and deliverance. The ſlaughter was not made an end with that day, for the next day our Horſe ranged the Countrey and found divers; and the foot hunted the woods, and bogs, and by that means found many of the enemy which were put to the ſword upon the place.</p>
+            <p>The ſtorm fell ſore upon their foot, the Country who ſhould know beſt report five thouſand to be ſlaine, there could not be leſſe then foure thouſand, we recovered neer 6000 Armes, 38 Collours of Foote, with ſome Cornets of Horſe, wee alſo re<g ref="char:EOLhyphen"/>covered
+<pb n="10" facs="tcp:161335:7"/>their Waggons and all their Ammunition, tooke the Lord <hi>Taaff's</hi> their Generals tent, field bed, and Cabinet where<g ref="char:EOLhyphen"/>in are papers of concernment, importing much of this ſervice of <hi>Ireland,</hi> which is to be delivered into the Houſe. In it was found likewiſe his Commiſſion from the Supreame Councell for being Generall of the Forces of <hi>Munſter;</hi> ſo that by the loſſe of his Army he wants Men to command, and of his Commiſſion, power to command men: On our part were ſlaine in that unhappy rout of our left wing, ſome noble and gallant Officers, Sir <hi>William Bridges</hi> Collonell of Horſe, Collonell <hi>Gray,</hi> Major <hi>Browne,</hi> Sir <hi>Robert Travers</hi> the Judge-Advocate was killed at our Baggage, a Captaine or two, Reformades, and ſome other Officers of inferiour rank, when the ſword had ſuf<g ref="char:EOLhyphen"/>ficiently quenched his thirſt of bloud, then in a cooler vaine, mercy began to take place, and theſe Perſons undermentioned were taken Priſoners.</p>
+            <list>
+               <head>A Liſt of the Priſoners taken.</head>
+               <item>Collonel <hi>Randal Mack-Don<g ref="char:EOLhyphen"/>nel.</hi>
+               </item>
+               <item>Lieuten. Col. <hi>Mac-Namarrow.</hi>
+               </item>
+               <item>Major <hi>John Fealane.</hi>
+               </item>
+               <item>Captain <hi>Garret-fitz-Morris.</hi>
+               </item>
+               <item>Captain <hi>Purſell.</hi>
+               </item>
+               <item>Captain <hi>Hugh Kely.</hi>
+               </item>
+               <item>Captain <hi>Edmond Bourke.</hi>
+               </item>
+               <item>Captain <hi>Peirce Wealſh.</hi>
+               </item>
+               <item>Captain <hi>Robert Supple.</hi>
+               </item>
+               <item>Captain Lieutenant <hi>Nugent.</hi>
+               </item>
+               <item>Captain <hi>Gully Reagh.</hi>
+               </item>
+               <item>Captain <hi>Bryan.</hi>
+               </item>
+               <item>Captain <hi>Mack nee Marra.</hi>
+               </item>
+               <item>Captain Lieuten. <hi>Stephenſon.</hi>
+               </item>
+               <item>Captain <hi>Donnogh O Bryen.</hi>
+               </item>
+               <item>Capt. <hi>Daniel Mack nee Marra.</hi>
+               </item>
+               <item>Capt. Lieute. <hi>Kenedy O Bryen.</hi>
+               </item>
+               <item>Captain <hi>Florence Mack Carthy</hi>
+               </item>
+               <item>Captain <hi>Donnogh Mack Carthy</hi>
+               </item>
+               <item>Captain <hi>John Mack nee Marra</hi>
+               </item>
+               <item>Captain <hi>Richard Ferreſter.</hi>
+               </item>
+               <item>Captain <hi>William Butler.</hi>
+               </item>
+               <item>Captain <hi>Theobald Butler.</hi>
+               </item>
+               <item>Captain <hi>Ro. Mack Domrohugh.</hi>
+               </item>
+               <item>Captain <hi>Alexander Jamſon.</hi>
+               </item>
+               <item>
+                  <pb n="11" facs="tcp:161335:7"/>
+Captain <hi>Mlaghlame.</hi>
+               </item>
+               <item>Captain <hi>William O Dudie.</hi>
+               </item>
+               <item>Captain <hi>Farriah O Donnell.</hi>
+               </item>
+               <item>Captain <hi>Eneas O Doniell.</hi>
+               </item>
+               <item>Captain <hi>John O Donnell,</hi>
+               </item>
+               <item>Captain <hi>Arthur Lyncie,</hi>
+               </item>
+               <item>Captain <hi>Marcus Neſtor,</hi>
+               </item>
+               <item>Captain <hi>Hugh O Conner.</hi>
+               </item>
+               <item>Captain <hi>Doniell O Sulavan.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Lieutenants.</head>
+               <item>Lieutenant <hi>Thomas Hellihed,</hi>
+               </item>
+               <item>Lieutenant <hi>Patrick Hogane,</hi>
+               </item>
+               <item>Lieutenant <hi>Conner Mack Na<g ref="char:EOLhyphen"/>namarra,</hi>
+               </item>
+               <item>Lieutenant <hi>Conner O Bryen,</hi>
+               </item>
+               <item>Lieutenant <hi>Edmond Swine,</hi>
+               </item>
+               <item>Lieutenant <hi>Manus Mack Don<g ref="char:EOLhyphen"/>nogh,</hi>
+               </item>
+               <item>Lieutenant <hi>John Bourke,</hi>
+               </item>
+               <item>Lieutenant <hi>Noll Dignume,</hi>
+               </item>
+               <item>Lieutenant <hi>Thomas Butler,</hi>
+               </item>
+               <item>Lieutenant <hi>William Kelly,</hi>
+               </item>
+               <item>Lieutenant <hi>Eneas O Duly,</hi>
+               </item>
+               <item>Lieutenant <hi>Teige O Donnoghue</hi>
+               </item>
+               <item>Lieutenant <hi>Dwyer,</hi>
+               </item>
+               <item>Lieutenant <hi>Dolton.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Enſignes.</head>
+               <item>
+                  <hi>Thomas fitz Morris,</hi>
+               </item>
+               <item>Enſigne <hi>Mack Namarra,</hi>
+               </item>
+               <item>Enſigne <hi>Hanraghane,</hi>
+               </item>
+               <item>Enſigne <hi>Lyllice,</hi>
+               </item>
+               <item>Enſigne <hi>Edmond Bourke,</hi>
+               </item>
+               <item>Cornet <hi>Purcell,</hi>
+               </item>
+               <item>Enſigne <hi>Edmond O Grady,</hi>
+               </item>
+               <item>Enſign <hi>Donnoh Mack Maghane</hi>
+               </item>
+               <item>Enſigne <hi>Doniell O Nelane,</hi>
+               </item>
+               <item>Enſigne <hi>Daniel Mac Cady,</hi>
+               </item>
+               <item>Enſigne <hi>Loghin Kelly.</hi>
+               </item>
+               <item>Enſigne <hi>William Hodnet,</hi>
+               </item>
+               <item>Enſigne <hi>Donnogh O Broe,</hi>
+               </item>
+               <item>Enſigne <hi>John Mack Doniell Carthy,</hi>
+               </item>
+               <item>Enſigne <hi>Francis Gordian,</hi>
+               </item>
+               <item>Enſigne <hi>Daniell Bourke,</hi>
+               </item>
+               <item>Enſigne <hi>John Corcrew,</hi>
+               </item>
+               <item>Coronet <hi>John fitz Gerrald,</hi>
+               </item>
+               <item>Quartermaſter <hi>Richard Se<g ref="char:EOLhyphen"/>gerſon,</hi>
+               </item>
+               <item>Enſigne <hi>Lacy:</hi>
+                  <list>
+                     <item>Troopers, 14</item>
+                     <item>Serieants, 9</item>
+                     <item>Corporalls 7</item>
+                     <item>Souldiers, 22</item>
+                     <item>Chirurgions. 6</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Gentlemen of the Countrey.</head>
+               <item>Maſter <hi>Purtell.</hi>
+               </item>
+               <item>Maſter <hi>Stephen Brown,</hi>
+               </item>
+               <item>Maſter <hi>John Novy,</hi>
+               </item>
+               <item>Maſter <hi>Chriſtopher Oge Purtel,</hi>
+               </item>
+               <item>Afterwards found out with the Souldiers,</item>
+               <item>
+                  <pb n="12" facs="tcp:161335:8"/>
+Lieutenant <hi>Bryen Mack Cragh,</hi>
+               </item>
+               <item>Enſigne <hi>Barret,</hi>
+               </item>
+               <item>Enſigne <hi>John Bourke,</hi>
+               </item>
+               <item>
+                  <hi>William Lee</hi> Quartermaſter.</item>
+            </list>
+            <p>Divers other Captaines and Officers were made priſoners, who remaining yet in the Souldiers hands unbrought in, could not be inrold in this liſt, on our part were taken priſoners, Lieu<g ref="char:EOLhyphen"/>tenant Collonell <hi>Criſpe,</hi> who is now releaſt and with us for an Officer of theirs of like quality, beſides one Lieutenant more, here to give you juſt accompt what every Officer and Soldier performed, (except that ſmall party which unfortu<g ref="char:EOLhyphen"/>nately fled, would ſwell this relation too much, and inquire the actors modeſty, who deſire the glory ſhould be aſcribed to God, themſelves being but imployed as inſtruments. For the Officers, &amp; amongſt the forwardeſt of them, Collonel <hi>Temple,</hi> who had ſeen them performe this dayes ſervice, would have thought them worthy of a better reward, then having conque<g ref="char:EOLhyphen"/>red all their enemies abroad, to go home, and be conquered themſelves by their owne wants, each Souldier honoured God by his vallour, and none diſhonoured themſelves. The Lord <hi>Preſident</hi> has not yet made an end of his victory, for he is proſecuting it vigorouſly, by reducing all the Country in<g ref="char:EOLhyphen"/>to Contribution, where he marches notwithſtanding the vio<g ref="char:EOLhyphen"/>lence of the weather, and the practiſes of ſome to draw the Souldier to a mutinous crying out, Home, Home it being now a deepe ſnow, and his men almoſt naked, that ſo the Province may be ſubdued, and the <hi>Rebells</hi> diſabled to draw ſuddenly to a head againe, which if it pleaſe the Divine Providence to aſſiſt us with ſeaſonable ſupplies, we ſhall uſe all poſſible and effectuall meanes to prevent.</p>
+            <list>
+               <pb n="13" facs="tcp:161335:8"/>
+               <head>A brief of the ſlain and taken.</head>
+               <item>Taken of the Enemies Horſe. 200</item>
+               <item>Slain of the Foot. 4000</item>
+               <item>Gentlemen Officers taken Priſoners, 68</item>
+               <item>Gentlemen of the Countrey. 6</item>
+               <item>More common Officers. 4</item>
+               <item>Colours of Foot. 38</item>
+               <item>Cornets of Horſe. 3</item>
+               <item>Of Ammunition, wagons. 4</item>
+               <item>Of Armes. 6000</item>
+               <item>The Lievetenant Generall ſlain.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
